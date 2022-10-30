@@ -31,8 +31,8 @@ global.botname = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' //ubah jadi nama bo
 global.footer = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281364399250'] // ubah aja pake nomor lu
-global.premium = ['6281364399250'] // ubah aja pake nomor lu
+global.owner = ['6281362029499'] // ubah aja pake nomor lu
+global.premium = ['6281362029499'] // ubah aja pake nomor lu
 global.packname = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' // ubah aja
 global.ownerr = ['☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆'] // ubaha aja
 global.author = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' //ubah aja
