@@ -1,4 +1,4 @@
-// Buat Lu Yang Jual Sc Ini Yang Jujur Jangan Samp Nipu Apalagi Lari Dari Tanggung Jawab
+// APAKAH KALIAN KENAL SAMA JANSEN??
 
 // Base Haikal Hw Mods : Copyan Dari Base Dika
 
@@ -21,21 +21,21 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
+global.youtube = 'https://youtube.com/@jansenmods' // ubah aia
+global.ig = 'https://www.instagram.com/@jansenp1000' // ubah aja
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝐀𝐃𝐒_𝐗-𝐌𝐎𝐎𝐃𝐒 ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '𝐀𝐃𝐒_𝐗-𝐌𝐎𝐎𝐃𝐒 ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '𝐀𝐃𝐒_𝐗-𝐌𝐎𝐎𝐃𝐒 ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281362029499'] // ubah aja pake nomor lu
-global.premium = ['6281362029499'] // ubah aja pake nomor lu
-global.packname = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' // ubah aja
-global.ownerr = ['☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆'] // ubaha aja
-global.author = '☆𝐋𝚫𝐋𝚫 𝐌Ṏ𝐃𝐒⏧☆' //ubah aja
+global.owner = ['62882003796590'] // ubah aja pake nomor lu
+global.premium = ['62882003796590'] // ubah aja pake nomor lu
+global.packname = '𝐀𝐃𝐒_𝐗-𝐌𝐎𝐎𝐃𝐒 ' // ubah aja
+global.ownerr = ['𝐀𝐃𝐒_𝐗-𝐌𝐎𝐎𝐃𝐒 '] // ubaha aja
+global.author = '𝐀𝐃𝐒_𝐗-𝐌𝐎𝐎𝐃𝐒 ' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
